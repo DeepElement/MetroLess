@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>MetroLess</id>
+    <version>0.1.0</version>
+    <authors>Todd Morrison</authors>
+    <owners>Todd Morison</owners>
+    <iconUrl>http://www.deepelement.com/img/logos/de/de_logo.ico</iconUrl>
+    <description>LESS compilation for WinJS Metro Projects</description>
+    <tags>Metro LESS WinJS Javascript Compile MSBuild</tags>
+    <licenseUrl>https://raw.githubusercontent.com/DeepElement/metro-less/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DeepElement/metro-less</projectUrl>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
