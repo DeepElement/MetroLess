@@ -2,14 +2,15 @@
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <id>MetroLess</id>
-    <version>0.1.1</version>
+    <version>0.1.4</version>
     <authors>Todd Morrison</authors>
     <owners>Todd Morison</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <iconUrl>http://www.deepelement.com/img/logos/de/de_logo.ico</iconUrl>
-    <description>LESS compilation for WinJS Metro Projects</description>
+    <description>LESS integration for WinJS Universal Apps</description>
     <tags>Metro LESS WinJS Javascript Compile MSBuild</tags>
-    <licenseUrl>https://raw.githubusercontent.com/DeepElement/metro-less/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/DeepElement/metro-less</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/DeepElement/MetroLess/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DeepElement/MetroLess</projectUrl>
     <copyright>Copyright 2014</copyright>
   </metadata>
 </package>
